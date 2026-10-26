@@ -355,7 +355,7 @@ export const CertificatePage = () => {
         {/* Signatures & Code */}
         <div className="pt-8 border-t border-slate-200 grid grid-cols-1 sm:grid-cols-3 gap-6 items-end text-xs">
           <div className="text-left space-y-0.5">
-            <p className="font-extrabold text-slate-900 text-sm">Tejas Kulkarni & Team</p>
+            <p className="font-extrabold text-slate-900 text-sm">______________________</p>
             <p className="text-teal-700 font-semibold text-[11px]">Academic & Safety Director</p>
             <p className="text-[10px] text-slate-400">TeenTalk Educational Network</p>
           </div>
@@ -368,7 +368,7 @@ export const CertificatePage = () => {
           </div>
 
           <div className="text-right space-y-0.5">
-            <p className="font-extrabold text-slate-900 text-sm">Dr. Meera Joshi</p>
+            <p className="font-extrabold text-slate-900 text-sm">______________</p>
             <p className="text-teal-700 font-semibold text-[11px]">Head of Advisory & Compliance</p>
             <p className="text-[10px] text-slate-400">Accredited Board of Governance</p>
           </div>
